@@ -10,6 +10,14 @@
 - working casually as a medical receptionist in urgent care clinics
 - an adult going through life
 
+   🌱 Knowledge of:
+  - C#
+  - HTML
+  - CSS
+  - Javascript
+  - Linux commands 
+  - Exposure to PHP, Python, 
+
  💞️ I’m looking to collaborate on many projects in the near future.
  📫 How to reach me ... on my email address fiona.donnelly@student.curtin.edu.au
 
