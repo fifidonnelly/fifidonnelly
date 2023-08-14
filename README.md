@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fifidonnelly</h1>
-<h3 align="center">A passionate business IT & IS uni student</h3>
+<h3 align="center">A passionate Business IT & IS uni student, currently in training </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fifidonnelly&label=Profile%20views&color=0e75b6&style=flat" alt="fifidonnelly" /> </p>
 
